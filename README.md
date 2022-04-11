@@ -42,3 +42,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+<!-- Versal Link -->
+https://vercel.com/new/success?projectName=to-do-list-with-redux&deploymentUrl=to-do-list-with-redux-1pxbioh3v-nizampatnamsai.vercel.app&redirect-url=&developer-id=&external-id=&branch=main
+
+
+<!-- Direct Link -->
+https://to-do-list-with-redux.vercel.app/
